@@ -26,17 +26,14 @@
 
 - No need to add any token of discord just fill the `config.json`
 ```js
-{
-  "port": "", // server port
-  "name": "", // bot name
-  "description": "", // short bot description
-  "invite": "", // bot invite link
-  "support": "", // bot support server
-  "pfp": "", // bot profile link
-  "feature1": "", // bot feature 1
-  "feature2": "", // ""   "" ""  2
-  "feature3": "", // ""   "" ""  3
-  "feature4": ""  // ""   "" ""  4
+
+  "name": "", // myth
+  "description": "", // invite myth the best bot
+  "support": "", // https://discord.gg/9p9jUcVfEt
+  "feature1": "", // ban
+  "feature2": "", // kick  "" ""  2
+  "feature3": "", // mute  "" ""  3
+  "feature4": ""  // lock  "" ""  4
 }
 ```
 - Footer: Goto `/views/index.ejs` line 419

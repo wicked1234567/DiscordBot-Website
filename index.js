@@ -36,26 +36,3 @@ app.get('/invite', async (req, res) => {
     res.redirect(invite)
 });
 
-app.get('/github', async (req, res) => {
-    res.redirect(`https://github.com/diwasatreya`)
-});
-
-app.get('/git', async (req, res) => {
-    res.redirect(`https://github.com/diwasatreya`)
-});
-
-app.get('/instagram', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
-});
-
-app.get('/ig', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
-});
-
-app.get('/twitter', async (req, res) => {
-    res.redirect(`https://www.instagram.com/atreyadiwas/`)
-});
-
-app.get('/reddit', async (req, res) => {
-    res.redirect(`https://www.reddit.com/r/programmingwithmemes`)
-});
